@@ -12,16 +12,7 @@
       "type": "Feature",
       "properties": {
         "ZIPCODE": "11213",
-        "PO_NAME": "Brooklyn",
-        "POPULATION": 62426,
-        "AREA": 29631004.437939,
-        "STATE": "NY",
-        "COUNTY": "Kings",
-        "ST_FIPS": "36",
-        "CTY_FIPS": "047",
-        "URL": "http://www.usps.com/",
-        "SHAPE_AREA": 0,
-        "SHAPE_LEN": 0
+        "PO_NAME": "Brooklyn"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -685,16 +676,7 @@
       "type": "Feature",
       "properties": {
         "ZIPCODE": "11230",
-        "PO_NAME": "Brooklyn",
-        "POPULATION": 80857,
-        "AREA": 49926703.3933172,
-        "STATE": "NY",
-        "COUNTY": "Kings",
-        "ST_FIPS": "36",
-        "CTY_FIPS": "047",
-        "URL": "http://www.usps.com/",
-        "SHAPE_AREA": 0,
-        "SHAPE_LEN": 0
+        "PO_NAME": "Brooklyn"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1614,16 +1596,7 @@
       "type": "Feature",
       "properties": {
         "ZIPCODE": "11204",
-        "PO_NAME": "Brooklyn",
-        "POPULATION": 77354,
-        "AREA": 43555184.613285,
-        "STATE": "NY",
-        "COUNTY": "Kings",
-        "ST_FIPS": "36",
-        "CTY_FIPS": "047",
-        "URL": "http://www.usps.com/",
-        "SHAPE_AREA": 0,
-        "SHAPE_LEN": 0
+        "PO_NAME": "Brooklyn"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2755,16 +2728,7 @@
       "type": "Feature",
       "properties": {
         "ZIPCODE": "11375",
-        "PO_NAME": "Forest Hills",
-        "POPULATION": 68555,
-        "AREA": 55587771.8344865,
-        "STATE": "NY",
-        "COUNTY": "Queens",
-        "ST_FIPS": "36",
-        "CTY_FIPS": "081",
-        "URL": "http://www.usps.com/",
-        "SHAPE_AREA": 0,
-        "SHAPE_LEN": 0
+        "PO_NAME": "Forest Hills"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4292,16 +4256,7 @@
       "type": "Feature",
       "properties": {
         "ZIPCODE": "11211",
-        "PO_NAME": "Brooklyn",
-        "POPULATION": 60861,
-        "AREA": 40470881.6712834,
-        "STATE": "NY",
-        "COUNTY": "Kings",
-        "ST_FIPS": "36",
-        "CTY_FIPS": "047",
-        "URL": "http://www.usps.com/",
-        "SHAPE_AREA": 0,
-        "SHAPE_LEN": 0
+        "PO_NAME": "Brooklyn"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7117,16 +7072,7 @@
       "type": "Feature",
       "properties": {
         "ZIPCODE": "11249",
-        "PO_NAME": "Brooklyn",
-        "POPULATION": 28481,
-        "AREA": 17772206.1701202,
-        "STATE": "NY",
-        "COUNTY": "Kings",
-        "ST_FIPS": "36",
-        "CTY_FIPS": "047",
-        "URL": "http://www.usps.com/",
-        "SHAPE_AREA": 0,
-        "SHAPE_LEN": 0
+        "PO_NAME": "Brooklyn"
       },
       "geometry": {
         "type": "MultiPolygon",
