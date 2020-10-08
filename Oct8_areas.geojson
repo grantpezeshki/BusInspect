@@ -12,7 +12,7 @@
       "type": "Feature",
       "properties": {
         "ZIPCODE": "11213",
-        "Name": "Brooklyn"
+        "Name": "Crown Heights (East)"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -676,7 +676,7 @@
       "type": "Feature",
       "properties": {
         "ZIPCODE": "11230",
-        "Name": "Brooklyn"
+        "Name": "Midwood (East)"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1596,7 +1596,7 @@
       "type": "Feature",
       "properties": {
         "ZIPCODE": "11204",
-        "Name": "Brooklyn"
+        "Name": "Midwood (West)"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4256,7 +4256,7 @@
       "type": "Feature",
       "properties": {
         "ZIPCODE": "11211",
-        "Name": "Brooklyn"
+        "Name": "Williamsburg (East)"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7072,7 +7072,7 @@
       "type": "Feature",
       "properties": {
         "ZIPCODE": "11249",
-        "Name": "Brooklyn"
+        "Name": "Williamsburg (West)"
       },
       "geometry": {
         "type": "MultiPolygon",
